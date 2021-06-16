@@ -1,0 +1,9 @@
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\bin\Debug\TT_interchangeSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\bin\Debug\TT_interchangeSort.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\bin\Debug\hoan_Vi.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\bin\Debug\hoan_Vi.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\obj\Debug\TT_interchangeSort.csprojAssemblyReference.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\obj\Debug\TT_interchangeSort.csproj.CoreCompileInputs.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\obj\Debug\TT_interchangeSort.csproj.CopyComplete
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\obj\Debug\TT_interchangeSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\TT_interchangeSort\obj\Debug\TT_interchangeSort.pdb

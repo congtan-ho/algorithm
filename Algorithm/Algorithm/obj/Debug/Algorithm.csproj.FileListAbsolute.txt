@@ -1,0 +1,29 @@
+C:\Users\CONGTAN\Desktop\ALGORITHM\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\CONGTAN\Desktop\ALGORITHM\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\CONGTAN\Desktop\ALGORITHM\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM\Algorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\CONGTAN\Desktop\ALGORITHM\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\Algorithm.exe.config
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\Algorithm.exe
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\Algorithm.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\obj\Debug\Algorithm.csprojAssemblyReference.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\obj\Debug\Algorithm.exe
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\obj\Debug\Algorithm.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_bubbleSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_insertionSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_interchangeSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_mergeSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_quickSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_selectionSort.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\hoan_Vi.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_bubbleSort.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_insertionSort.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_interchangeSort.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_mergeSort.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_quickSort.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\TT_selectionSort.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\bin\Debug\hoan_Vi.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\Algorithm\obj\Debug\Algorithm.csproj.CopyComplete

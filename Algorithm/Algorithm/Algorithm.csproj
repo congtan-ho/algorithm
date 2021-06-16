@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6F31BFD6-27C3-4BFD-8BA3-601AF673D34F}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Algorithm</RootNamespace>
+    <AssemblyName>Algorithm</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TT_bubbleSort\TT_bubbleSort.csproj">
+      <Project>{53f25e82-acf9-45bc-b61c-c2ed5e2d928c}</Project>
+      <Name>TT_bubbleSort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TT_insertionSort\TT_insertionSort.csproj">
+      <Project>{4534eddd-beb1-4762-8af3-893ea1ab5c9a}</Project>
+      <Name>TT_insertionSort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TT_interchangeSort\TT_interchangeSort.csproj">
+      <Project>{a3dd4cda-3acf-4c6e-86e4-7ca9419989f6}</Project>
+      <Name>TT_interchangeSort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TT_mergeSort\TT_mergeSort.csproj">
+      <Project>{7775e8bf-47f8-48dc-a867-5c8b61ec0547}</Project>
+      <Name>TT_mergeSort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TT_quickSort\TT_quickSort.csproj">
+      <Project>{70eb8180-ca68-4683-9d79-712c9f55600b}</Project>
+      <Name>TT_quickSort</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\TT_selectionSort\TT_selectionSort.csproj">
+      <Project>{8215c8df-e24c-4f5e-b596-d2b5f1b4ed78}</Project>
+      <Name>TT_selectionSort</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

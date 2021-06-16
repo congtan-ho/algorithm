@@ -1,0 +1,6 @@
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\hoan_Vi\bin\Debug\hoan_Vi.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\hoan_Vi\bin\Debug\hoan_Vi.pdb
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\hoan_Vi\obj\Debug\hoan_Vi.csprojAssemblyReference.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\hoan_Vi\obj\Debug\hoan_Vi.csproj.CoreCompileInputs.cache
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\hoan_Vi\obj\Debug\hoan_Vi.dll
+C:\Users\CONGTAN\Desktop\ALGORITHM 1\Algorithm\hoan_Vi\obj\Debug\hoan_Vi.pdb
